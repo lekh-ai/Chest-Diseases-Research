@@ -1,6 +1,6 @@
 
 # 🩺 Predicting Diseases Using Chest X-Ray Medical Images
-## Published in IEEE link : [IEEE Explore](https://ieeexplore.ieee.org/document/10434700)
+## Published in IEEE : [IEEE Explore link](https://ieeexplore.ieee.org/document/10434700)
 
 ---
 
