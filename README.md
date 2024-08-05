@@ -1,9 +1,8 @@
-Certainly! Here is the optimized README.md file based on your provided template and the content from your research paper:
-
----
 
 # 🩺 Predicting Diseases Using Chest X-Ray Medical Images
-##Published in IEEE link : [IEEE Explore](https://ieeexplore.ieee.org/document/10434700)
+## Published in IEEE link : [IEEE Explore](https://ieeexplore.ieee.org/document/10434700)
+
+---
 
 ## Overview
 This project aims to predict diseases such as pneumonia and COVID-19 from chest X-ray images using deep learning techniques. The proposed model leverages the DenseNet-201 architecture to achieve high accuracy and assist medical professionals in early diagnosis and treatment planning.
